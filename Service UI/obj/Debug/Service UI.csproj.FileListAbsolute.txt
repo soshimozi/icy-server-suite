@@ -1,0 +1,18 @@
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\bin\Debug\Service UI.exe
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\bin\Debug\Service UI.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\Service_UI.Form1.resources
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\Service_UI.Properties.Resources.resources
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\ResGen.read.1.tlog
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\ResGen.write.1.tlog
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\Service UI.exe
+C:\Users\Volcano\Desktop\ICYServer Suite\Service UI\obj\Debug\Service UI.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\bin\Debug\Service UI.exe.config
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\bin\Debug\Service UI.exe
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\bin\Debug\Service UI.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\obj\Debug\Service UI.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\obj\Debug\Service_UI.Form1.resources
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\obj\Debug\Service_UI.Properties.Resources.resources
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\obj\Debug\Service UI.csproj.GenerateResource.Cache
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\obj\Debug\Service UI.exe
+C:\Users\Monkey\Desktop\ICY Server Suite\Service UI\obj\Debug\Service UI.pdb

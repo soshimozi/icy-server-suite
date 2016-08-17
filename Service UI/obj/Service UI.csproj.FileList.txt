@@ -1,0 +1,8 @@
+bin\Debug\Service UI.exe
+bin\Debug\Service UI.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Service_UI.Form1.resources
+obj\Debug\Service_UI.Properties.Resources.resources
+obj\Debug\Service UI.csproj.GenerateResource.Cache
+obj\Debug\Service UI.exe
+obj\Debug\Service UI.pdb

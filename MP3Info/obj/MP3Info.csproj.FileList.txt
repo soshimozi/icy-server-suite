@@ -1,0 +1,5 @@
+bin\Debug\MP3Info.dll
+bin\Debug\MP3Info.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MP3Info.dll
+obj\Debug\MP3Info.pdb

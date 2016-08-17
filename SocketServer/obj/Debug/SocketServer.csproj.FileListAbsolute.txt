@@ -1,0 +1,13 @@
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\obj\Debug\SocketServer.dll
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\SocketServer.dll
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\SocketServer.pdb
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\log4net.dll
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\ObjectEventQueue.dll
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\ObjectEventQueue.pdb
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\SocketServer\obj\Debug\SocketServer.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\SocketServer\obj\Debug\SocketServer.dll

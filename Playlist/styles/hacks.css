@@ -1,0 +1,64 @@
+﻿/* Hide from IE5-mac \*/
+* html .Header {
+	width: 774px;
+	w\idth: 772px;
+}
+
+.Header2 {
+	top: 102px;
+	t\op: 103px;
+}
+
+* html .LogoBottom {
+	width: 774px;
+	w\idth: 772px;
+}
+
+* html .NavBar {
+	width: 774px;
+	w\idth: 752px;
+	height: 25px;
+	he\ight: 23px;
+}
+
+* html .MenuTop3 {
+	width: 134px;
+	w\idth: 132px;
+	height: 13px;
+	he\ight: 15px;
+}
+
+* html .GoogleAd {
+margin: 0px 0px 10px 10px;
+ma\rgin: 0px 0px 10px 10px;
+}
+
+* html .Content {
+	width: 617px; 
+	w\idth: 615px;
+}
+
+* html .FullText {
+	width: 612px;
+	w\idth: 572px;
+	margin-right: -30px;
+}
+
+* html .Footer {
+	height: 28px;
+	he\ight: 21px;
+}
+
+* html #mx LI {
+	PADDING: 1px 0px 0px 0px;
+}
+
+* html #mx LI.m UL A {
+  	WIDTH: 14.3em;
+}
+
+body> .BackLink A:hover { BACKGROUND: none; COLOR: #ff0000;}
+body> .TopLink A:hover { BACKGROUND: none;	COLOR: #ff0000;}
+body> .NextLink A:hover { BACKGROUND: none; COLOR: #ff0000;}
+
+/* End hide from IE5-mac */

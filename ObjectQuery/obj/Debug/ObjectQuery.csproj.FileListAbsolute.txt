@@ -1,0 +1,15 @@
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\ObjectQuery\bin\Debug\ObjectQuery.dll
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\ObjectQuery\bin\Debug\ObjectQuery.pdb
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\ObjectQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\ObjectQuery\obj\Debug\ObjectQuery.dll
+C:\Backup ASAP\Projects\save me - important\ICYServer Suite\ObjectQuery\obj\Debug\ObjectQuery.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ObjectQuery\bin\Debug\ObjectQuery.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ObjectQuery\bin\Debug\ObjectQuery.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ObjectQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\ObjectQuery\obj\Debug\ObjectQuery.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ObjectQuery\obj\Debug\ObjectQuery.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ObjectQuery\bin\Debug\ObjectQuery.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ObjectQuery\bin\Debug\ObjectQuery.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ObjectQuery\obj\Debug\ObjectQuery.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\ObjectQuery\obj\Debug\ObjectQuery.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ObjectQuery\obj\Debug\ObjectQuery.pdb

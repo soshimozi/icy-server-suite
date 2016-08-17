@@ -1,0 +1,4 @@
+<configuration>
+	<port>8000</port>
+	<mount_location>e:\MusicStreamTest</mount_location>
+</configuration>

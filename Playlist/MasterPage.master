@@ -1,0 +1,144 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Assembly="iZoom.Web.Controls" Namespace="iZoom.Web.Controls" TagPrefix="iZoomWeb" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head runat="server">
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="styles/layout2_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="styles/layout2_text.css" />
+  <link href="http://www.google.com/uds/css/gsearch.css" type="text/css" rel="stylesheet"/> 
+  <title>.:: iZoom&trade; ::.  Quality Internet Streaming &amp; MP3 Flash Solutions</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+<body>
+    <div id="MasterPageWrapper">
+    <form id="form1" runat="server" method="post">
+      <!-- Main Page Container -->
+      <div class="page-container">
+
+        <!-- For alternative headers START PASTE here -->
+
+        <!-- A. HEADER -->      
+        <div class="header">
+          
+          <!-- A.2 HEADER MIDDLE -->
+          <div class="header-middle">    
+       
+            <div class="sitename">
+               <img src="images/bg_head_top_logo.jpg" alt="" />
+              <h1><a href="default.aspx" title="Go to Start page">iZoom&trade;&bull;1.1b<span style="font-weight:normal;font-size:50%;">&nbsp;update-3</span></a></h1>
+              <h2>The skinnable internet mp3 player and streaming server</h2>
+              <br />
+              <p>This site best viewed in 1024x768 or higher resolution.</p>
+            </div>
+                   
+            <!-- Site message -->
+            <div class="sitemessage">
+              <h1><a href="PlaylistViewer.aspx">Unlimited Playlist Length</a> &bull; <a href="FlashPlayers.aspx">Quality Flash Solutions</a></h1>
+            </div>        
+          </div>
+          
+          <!-- A.3 HEADER BOTTOM -->
+          <div class="header-bottom">
+            <asp:Repeater ID="MenuNav" DataSourceID="topLevelSiteMapDataSource" runat="server">
+                <HeaderTemplate>
+                    <div class="nav2">
+                      <ul>
+                </HeaderTemplate>
+                <ItemTemplate>
+                        <li><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl='<%# Eval("Url") %>' Text='<%# Eval("Title") %>' ToolTip='<%# Eval("Description") %>' /></li>
+                </ItemTemplate>
+                <FooterTemplate>
+                    <li><asp:LoginStatus LoginText="Sign In" LogoutText="Sign Out" LogoutPageUrl="~/default.aspx" LogoutAction="Redirect" runat="server" /></li>
+                      </ul>
+                    </div>              
+                </FooterTemplate>
+            </asp:Repeater>
+	      </div>
+	      
+        <!-- END A. HEADER -->      
+
+
+          <!-- A.4 HEADER BREADCRUMBS -->
+
+          <!-- Breadcrumbs -->
+          <div class="header-breadcrumbs">
+            
+            <asp:SiteMapPath style="margin-left: 10px;" NodeStyle-CssClass="breadcrumb-item" CurrentNodeStyle-CssClass="breadcrumb-item" PathSeparator="" ID="breadcrumbSiteMapPath" runat="server" >
+                <PathSeparatorTemplate>
+                    <asp:Image ID="Image1" CssClass="breadcrumb-separator" ImageUrl="~/images/bg_bullet_arrow.gif" runat="server" />
+                </PathSeparatorTemplate>
+            </asp:SiteMapPath>
+
+            <div class="searchform">
+                <fieldset>
+                 <asp:LoginView ID="LoginView1" runat="server">
+                    <LoggedInTemplate>
+                        <span>.::&nbsp;</span><asp:LoginName CssClass="top" ID="LoginName1" runat="server" FormatString="Welcome {0}" /><span>&nbsp;::.</span>
+                    </LoggedInTemplate>
+                    <AnonymousTemplate>
+                        <span>.::&nbsp;</span>Welcome Anonymous User.<span>&nbsp;::.</span>
+                    </AnonymousTemplate>
+                  </asp:LoginView>
+                </fieldset>
+            </div>
+                      
+          </div>
+        </div>
+
+        <!-- For alternative headers END PASTE here -->
+
+        <!-- B. MAIN -->
+        <div class="main">
+     
+          <!-- B.1 MAIN NAVIGATION -->
+          <div class="main-navigation">
+
+            <!-- Navigation Level 3 -->
+            <div class="round-border-topright"></div>
+            
+            <iZoomWeb:SectionSubHeader runat="server" Text="Navigation" ID="sectionHeader" />
+            <asp:TreeView ShowExpandCollapse="False" SelectedNodeStyle-ImageUrl="~/images/bg_bullet_half_2.gif" CssClass="nav3-bullet" runat="server" DataSourceID="wholeSiteMapDataSource" ID="TreeView1" ShowLines="false" BorderStyle="None" Width="219px">
+                <SelectedNodeStyle ImageUrl="~/images/bg_bullet_half_2.gif" />
+            </asp:TreeView>
+            
+            <!-- Contact Form -->
+            <iZoomWeb:SectionSubHeader runat="server" ID="contactSectionSubHeader" Text="Contact Us" />
+            <div class="contactform" id="contactform" name="contactform">
+                <p><asp:Label CssClass="top" ID="ContactNameLabel" runat="server" AssociatedControlID="ContactName">Your Name:</asp:Label><br />
+                <asp:TextBox runat="server" id="ContactName" CssClass="field"/></p>
+                <p><asp:Label CssClass="top" ID="ContactEmailLabel" runat="server" AssociatedControlID="ContactEmail">Your Email:</asp:Label><br />
+                    <asp:TextBox runat="server" id="ContactEmail" CssClass="field"/></p>
+                <p><asp:Label CssClass="top" ID="ContactMessageLabel" runat="server" AssociatedControlID="ContactMessage">Message:</asp:Label><br />
+                    <asp:TextBox Rows="4" TextMode="MultiLine" runat="server" id="ContactMessage" CssClass="field"/></p>
+                <p><asp:Button CssClass="button" ID="SendEmailButton" runat="server" Text="Send" ValidationGroup="ContactForm" CausesValidation="true" CommandName="SendEmail" OnCommand="Template_OnCommand" /></p>      
+                <p><asp:RequiredFieldValidator CssClass="top" ID="RequiredFieldValidator1" runat="server" ValidationGroup="ContactForm" ControlToValidate="ContactEmail">Please enter a contact address.<br /></asp:RequiredFieldValidator></p>
+                <p><asp:RegularExpressionValidator CssClass="top" ID="RegExValidator1" runat="server" ValidationExpression=".*@.*\..*" ControlToValidate="ContactEmail" ValidationGroup="ContactForm">Please enter a valid email address.</asp:RegularExpressionValidator></p>
+                <p><asp:RequiredFieldValidator CssClass="top" ID="RequiredFieldValidator2" runat="server" ValidationGroup="ContactName" ControlToValidate="ContactEmail">Please enter a contact name.<br /></asp:RequiredFieldValidator></p>
+            </div>
+          </div>
+
+          <!-- B.1 MAIN CONTENT -->
+          <div class="main-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+          </div>
+          
+        </div> 
+        <!-- END B. MAIN --><!-- C. FOOTER AREA --><div class="footer">
+          <p>Copyright &copy; 2006 - 2007 SMart Solutions | All Rights Reserved</p>
+          <p class="credits">Created by <a href="http://www.kelleyjeanproductions/mainstaging" title="Creator Homepage">SMaRt Productions</a> | Powered by <a href="#" title="Content Management System">Svn</a> | <a href="http://validator.w3.org/check?uri=referer" title="Validate XHTML code">W3C XHTML 1.0</a> | <a href="http://jigsaw.w3.org/css-validator/" title="Validate CSS code">W3C CSS 2.0</a></p>
+        <!-- END C. FOOTER AREA -->      
+        
+        </div>      
+      </div> 
+      <asp:SiteMapDataSource ID="topLevelSiteMapDataSource" runat="server" ShowStartingNode="false" SiteMapProvider="XmlSiteMapProviderTopLevel" />
+      <asp:SiteMapDataSource ID="wholeSiteMapDataSource" runat="server" ShowStartingNode="false" SiteMapProvider="XmlSiteMapProviderWhole" />
+    </form>
+    </div>
+
+</body>
+</html>

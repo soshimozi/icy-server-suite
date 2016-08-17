@@ -1,0 +1,10 @@
+C:\Users\Volcano\Desktop\ICYServer Suite\Tracklist.Domain\bin\Debug\Tracklist.Domain.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\Tracklist.Domain\bin\Debug\Tracklist.Domain.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\Tracklist.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\Tracklist.Domain\obj\Debug\Tracklist.Domain.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\Tracklist.Domain\obj\Debug\Tracklist.Domain.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\Tracklist.Domain\bin\Debug\Tracklist.Domain.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\Tracklist.Domain\bin\Debug\Tracklist.Domain.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\Tracklist.Domain\obj\Debug\Tracklist.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\Tracklist.Domain\obj\Debug\Tracklist.Domain.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\Tracklist.Domain\obj\Debug\Tracklist.Domain.pdb

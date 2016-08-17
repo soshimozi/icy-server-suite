@@ -1,0 +1,3 @@
+C:\Documents and Settings\Scott\Desktop\save me - important\ICYServer Suite\ICYServer Console\bin\Debug\ICYServer Console.exe.config
+C:\Documents and Settings\Scott\Desktop\save me - important\ICYServer Suite\ICYServer Console\obj\Debug\ICYServer Console.exe
+C:\Documents and Settings\Scott\Desktop\save me - important\ICYServer Suite\ICYServer Console\obj\Debug\ICYServer Console.pdb

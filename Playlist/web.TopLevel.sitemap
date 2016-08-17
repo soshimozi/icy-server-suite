@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="Root"  description="">
+      <siteMapNode url="default.aspx" title="Home"  description="iZoom Home" />
+      <siteMapNode url="profile.aspx" title="Preferences" description="Edit Preferences" />
+      <siteMapNode url="tracklistviewer.aspx" title="Tracklist" description="View Tracklist" />
+      <siteMapNode url="playlistviewer.aspx" title="My Playlist" description="Manage Your Playlist" />
+      <siteMapNode url="managetracks.aspx" title="Track Storage" description="Manage Your Track Storage" />
+      <siteMapNode url="getembed.aspx" title="Players"  description="iZoom Mp3 Player" />
+      <siteMapNode url="search.aspx" title="Search" description="Search" />
+    </siteMapNode>
+</siteMap>

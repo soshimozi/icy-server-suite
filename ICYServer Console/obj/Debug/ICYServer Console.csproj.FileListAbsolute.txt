@@ -1,0 +1,38 @@
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ICYServer Console.exe.config
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\obj\Debug\ICYServer Console.exe
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\obj\Debug\ICYServer Console.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ICYServer Console.exe
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ICYServer Console.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ICYServer.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\log4net.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\SocketServer.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\Tracklist.Domain.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\MP3Info.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ObjectEventQueue.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ObjectQuery.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ICYServer.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\SocketServer.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\Tracklist.Domain.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\MP3Info.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ObjectEventQueue.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\bin\Debug\ObjectQuery.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ICYServer Console.exe.config
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ICYServer Console.exe
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ICYServer Console.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ICYServer.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\log4net.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\SocketServer.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\Tracklist.Domain.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\MP3Info.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ObjectEventQueue.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ObjectQuery.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ICYServer.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\SocketServer.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\Tracklist.Domain.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\MP3Info.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ObjectEventQueue.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\bin\Debug\ObjectQuery.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\obj\Debug\ICYServer Console.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\obj\Debug\ICYServer Console.exe
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer Console\obj\Debug\ICYServer Console.pdb

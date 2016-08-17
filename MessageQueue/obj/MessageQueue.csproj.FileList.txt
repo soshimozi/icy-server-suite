@@ -1,0 +1,5 @@
+bin\Debug\MessageQueue.dll
+bin\Debug\MessageQueue.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MessageQueue.dll
+obj\Debug\MessageQueue.pdb

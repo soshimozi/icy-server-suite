@@ -1,0 +1,22 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ICYService.ICYService.resources
+obj\Debug\ICYService.ProjectInstaller.resources
+obj\Debug\SMarTICY Service.csproj.GenerateResource.Cache
+bin\Debug\ICYService.exe.config
+bin\Debug\ICYService.exe
+bin\Debug\ICYService.pdb
+bin\Debug\ICYServer.dll
+bin\Debug\log4net.dll
+bin\Debug\SocketServer.dll
+bin\Debug\Tracklist.Domain.dll
+bin\Debug\ObjectQuery.dll
+bin\Debug\MP3Info.dll
+bin\Debug\ObjectEventQueue.dll
+bin\Debug\SocketServer.pdb
+bin\Debug\Tracklist.Domain.pdb
+bin\Debug\ObjectQuery.pdb
+bin\Debug\MP3Info.pdb
+bin\Debug\ObjectEventQueue.pdb
+bin\Debug\ICYServer.pdb
+obj\Debug\ICYService.exe
+obj\Debug\ICYService.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\obj\Debug\SocketServer.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\SocketServer.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\SocketServer.pdb
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\log4net.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\ObjectEventQueue.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\bin\Debug\ObjectEventQueue.pdb
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\SocketServer\obj\Debug\SocketServer.pdb

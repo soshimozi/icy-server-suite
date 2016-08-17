@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{97FCFED4-36CB-4115-A4D9-9E56DDB75CE3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ObjectQuery</RootNamespace>
+    <AssemblyName>ObjectQuery</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IQuery.cs" />
+    <Compile Include="KeyNotFoundException.cs" />
+    <Compile Include="KeyViolationException.cs" />
+    <Compile Include="ObjectQuery.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueryArgumentException.cs" />
+    <Compile Include="QueryManager.cs" />
+    <Compile Include="QueryParameter.cs" />
+    <Compile Include="StatementParser\SqlCriteria.cs" />
+    <Compile Include="StatementParser\CharCodeMapFactory.cs" />
+    <Compile Include="StatementParser\DataType.cs" />
+    <Compile Include="StatementParser\DataValue.cs" />
+    <Compile Include="StatementParser\Enums.cs" />
+    <Compile Include="StatementParser\EOFToken.cs" />
+    <Compile Include="StatementParser\ErrorToken.cs" />
+    <Compile Include="StatementParser\IInputBuffer.cs" />
+    <Compile Include="StatementParser\IOutputBuffer.cs" />
+    <Compile Include="StatementParser\IToken.cs" />
+    <Compile Include="StatementParser\NumberToken.cs" />
+    <Compile Include="StatementParser\ReservedWord.cs" />
+    <Compile Include="StatementParser\ReservedWordDictionary.cs" />
+    <Compile Include="StatementParser\Scanner.cs" />
+    <Compile Include="StatementParser\SpecialToken.cs" />
+    <Compile Include="StatementParser\SqlScanner.cs" />
+    <Compile Include="StatementParser\SqlStatementParser.cs" />
+    <Compile Include="StatementParser\StringToken.cs" />
+    <Compile Include="StatementParser\TextBuffer.cs" />
+    <Compile Include="StatementParser\WhereClause.cs" />
+    <Compile Include="StatementParser\WordToken.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+bin\Debug\ObjectEventQueue.dll
+bin\Debug\ObjectEventQueue.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ObjectEventQueue.dll
+obj\Debug\ObjectEventQueue.pdb

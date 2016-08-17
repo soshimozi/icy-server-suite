@@ -1,0 +1,5 @@
+bin\Debug\ObjectQuery.dll
+bin\Debug\ObjectQuery.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ObjectQuery.dll
+obj\Debug\ObjectQuery.pdb

@@ -1,0 +1,239 @@
+﻿body 
+{
+	margin: 0;
+	padding-bottom: 2em;
+	color: #333333;
+	font-family: Verdana;
+	border-top: 2px solid #0000CD;	
+	background-color: #ffffff;
+}
+
+#header
+{
+	border-top: 3px solid #191970;
+	border-bottom: dashed 1px #191970;
+	height: 6em;
+	background-color: #cccccc;
+}
+
+#header .title
+{
+	color: #001166;
+	float: left;
+	margin-right: 2em;
+	margin-top: 0.3em;
+	margin-left: .8em;
+}
+
+#header2ndLine .breadcrumb {
+	color: #3d3d3d;
+	margin-right: 2em;
+	margin-top: .2em;
+	font-weight:bold;
+	font-size: x-small;
+	float:right;
+}
+
+#header2ndLine .usersloggedin 
+{
+	color:#5D7B9D;
+	margin-left: 17.5em;
+	margin-top: .2em;
+	font-size: x-small;
+	float:left;
+}
+
+#header .welcome 
+{
+	color: #000066;
+	float:left;
+	margin-top: 5.2em;
+	font-weight:bold;
+	font-size: smaller;	
+}
+
+#header img 
+{
+	border: none 0px #ffffff;
+}
+
+#header a:link, a:visited  {
+	color: #111199;
+}
+
+#header2ndLine a 
+{
+	text-decoration:none;
+}
+
+#header2ndLine a:link, #header2ndLine a:visited 
+{
+	font-weight:normal;
+	color: #5D7B9D;
+}
+
+#header2ndLine .breadcrumb a:hover
+{
+	font-weight: bold;
+	color: #111199;
+}
+
+/* Footer */
+
+#footer 
+{
+	position:absolute;
+	top: 45em;
+	left: 0;
+	width: 100%;
+	height: 1.5em;
+	background-color: #DDDDFF;
+	color: #5D7B9D;
+	border-top: black;
+	text-align: center;
+}
+
+.signout a
+{
+	text-decoration:none;
+}
+
+.signout a:link, .signout a:visitied
+{
+	color: #5D7B9D;
+	background-color: transparent;
+}
+
+.signout a:hover
+{
+	color:#111199;
+	font-weight:bold;
+}
+
+#footer a:link, #footer a:visited 
+{
+	padding: 0.8em 1em 0.5em 1em;
+	color: #5D7B9D;
+	background-color: transparent;
+	font-size: 80%;
+	text-decoration:none;
+}
+
+#footer a:hover 
+{
+	color:#111199;
+	font-weight:bold;
+}
+
+/* Navigation */
+#navigation 
+{
+	height:40em;
+	width: 18em;
+	top: 8.20em;
+	position:absolute;
+	font-size:80%;
+	background-color:#DDDDFF;
+}
+
+#navigation a:link, #navigation a:visited, #navigation a:active
+{
+	color:#5D7B9D;
+}
+
+#navigation a:hover
+{
+	color:#111199;
+}
+
+#content 
+{
+	margin-top:1.5em;
+	margin-left: 18.5em;
+	margin-right: 2em;
+	border:none;
+	font-size: 80%;
+}
+
+#content p 
+{
+	font-size: 80%;
+	line-height: 1.6em; 
+	color:#000011;
+}
+
+
+#labelWelcome
+{
+	color: White;
+}
+
+.label
+{
+	font-size: 90%;
+}
+
+.error
+{
+	color: #CC0000;
+}
+
+.contentTitle
+{
+	font-size:medium;
+	font-weight:bold;
+	color: #5D7B9D;
+}
+
+.contentSmallTitle
+{
+	font-size:small;
+	font-weight:bold;
+	color: #5D7B9D;
+}
+
+.welcomeLabel
+{
+	font-weight:bold;
+	font-size:small;
+	color:#000040;
+}
+
+.welcomeLabel a
+{
+	text-decoration:underline;
+}
+
+.flatButton
+{
+	background:#cccccc;
+	border: solid 1px black;
+	Font-Size:smaller;
+	Color:#284775;
+}
+
+.flatTextbox
+{
+	border: solid 1px;
+	font-size:x-small;
+}
+
+.profileTableRow
+{
+	border: solid 1px #333333;
+}
+
+.textbanner
+{
+	font-weight: bold; 
+	color: white; 
+	background-color: #6b696b;
+	font-family: Verdana;
+	font-size:small;
+}
+
+.embedTableRow
+{
+	border-bottom: dashed 1px #333333;
+	padding-bottom: 10px;
+}

@@ -1,0 +1,5 @@
+bin\Debug\Tracklist.Domain.dll
+bin\Debug\Tracklist.Domain.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Tracklist.Domain.dll
+obj\Debug\Tracklist.Domain.pdb

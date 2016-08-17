@@ -1,0 +1,11 @@
+bin\Debug\ICYServer Stress Test Harness.exe
+bin\Debug\ICYServer Stress Test Harness.pdb
+bin\Debug\Tracklist.Domain.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ICYServer_Stress_Test_Harness.Form1.resources
+obj\Debug\ICYServer_Stress_Test_Harness.Properties.Resources.resources
+obj\Debug\ICYServer_Stress_Test_Harness.ThreadConfigDlg.resources
+obj\Debug\ICYServer Stress Test Harness.csproj.GenerateResource.Cache
+obj\Debug\ICYServer Stress Test Harness.exe
+obj\Debug\ICYServer Stress Test Harness.pdb
+bin\Debug\ICYServer Stress Test Harness.exe.config

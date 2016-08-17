@@ -1,0 +1,21 @@
+bin\Debug\SMarTICY Test.exe
+bin\Debug\ICYServer.dll
+bin\Debug\log4net.dll
+bin\Debug\ObjectQuery.dll
+bin\Debug\MP3Info.dll
+bin\Debug\SocketServer.dll
+bin\Debug\ObjectEventQueue.dll
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Tracklist.Domain.dll
+bin\Debug\nunit.framework.dll
+bin\Debug\Tracklist.Domain.pdb
+bin\Debug\ObjectQuery.pdb
+bin\Debug\MP3Info.pdb
+bin\Debug\ObjectEventQueue.pdb
+bin\Debug\nunit.framework.xml
+bin\Debug\ICYServer.pdb
+bin\Debug\SocketServer.pdb
+obj\Debug\SMarTICY Test.exe
+obj\Debug\SMarTICY Test.pdb
+bin\Debug\SMarTICY Test.exe.config
+bin\Debug\SMarTICY Test.pdb

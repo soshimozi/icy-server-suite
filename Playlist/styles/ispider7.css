@@ -1,0 +1,238 @@
+﻿body, html {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 100%;
+ 	background: #e7eae1;
+}
+
+html>body .Page {
+	height: auto;
+}
+
+A:link { color: #003c77; background: inherit;}
+A:visited { color: #003c77; background: inherit;}
+A:active { color: #800000; background: inherit;}
+A:hover { color: #800000; background: inherit;}
+
+.Content {
+	width: 615px;
+	background: transparent;
+	position: relative;
+	float: right;
+	border-right: 1px solid black;
+}
+
+.Heading1 {
+	position: absolute;
+	margin: 0px 0px 5px 0px;
+	padding: 0px 0px 10px 0px;
+	font: normal normal 32px/36px "times new roman",helvetica,sans-serif;
+	border-bottom: 1px solid #808080;
+}
+
+/* Set height for 52px when Google only displays 2 ads in large rectangle */
+.H1Spacer {height: 62px; background: none;} 
+
+.Heading2 {
+	font: normal normal 20px/24px "trebuchet ms",verdana,sans-serif;
+	margin: 0px;
+}
+
+.Heading3 {
+	margin: 0px;
+	font: bold 15px/17px "trebuchet ms",verdana,sans-serif;
+	text-align: left;
+	color: #000000;
+	background: inherit;
+}
+
+.FullText {
+	padding: 20px 20px 0px 20px;
+	text-align: justify;
+	font: 15px/normal "trebuchet ms",verdana,sans-serif;
+	color: #000000; 
+	background: inherit;
+}
+
+* html .FullText {
+	font: 15px/17px "trebuchet ms",verdana,sans-serif;
+}
+
+.Menu p {
+	padding-left: 3px;
+	padding-right: 2px
+}
+
+.NextBack {
+	position: relative;
+	border: 0;
+	width: 500px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.NextBack A:hover {color: #ff0000; background: #ffcc00;}
+
+.BackLink {
+	width: 33%;
+	padding: 0px;
+	text-align: left;
+	font: bold italic 16px/19px "times new roman",serif;
+}
+
+.TopLink {
+	width: 34%;
+	padding: 0px;
+	text-align: center;
+	font: bold italic 16px/19px "times new roman",serif;
+}
+
+.NextLink {
+	width: 33%;
+	padding: 0px;
+	text-align: right;
+	font: bold italic 16px/19px "times new roman",serif;
+}
+
+.Footer {
+	position: relative;
+	width: 774px;
+	height: 21px;
+	padding-top: 6px;
+	clear: both;
+	text-align: center;
+	font: 13px/17px "Trebuchet MS",verdana,sans-serif;
+	color: #c4c0f8;
+  	background: url("pics/footer-top.gif") no-repeat top #040404;
+	border-bottom: 2px solid #e7eae1;
+}
+
+.Footer A {background: none; color: #c4c0f8 ! important; text-decoration: none; cursor: pointer;}
+.Footer A:hover {background: none; color: #c4c0f8; text-decoration: underline; cursor: pointer;}
+
+/* FIX TOP MARGIN BUG - MOZILLA */
+div, p {
+	margin-top: 0
+} 
+
+.PrintFriend {font-size: 13px;}
+.PrintOnly {display: none;}
+
+.Return {margin-top: 5px; text-align: right; font-size: 14px;}
+
+/* IE ignores this */
+HTML>BODY CODE {font: 15px/20px "courier new",courier,monospace;}
+
+.CodeBox {
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	border: 1px solid black;
+}
+
+/* COLORS */
+.Blue {color: #0000ff; background: inherit;}
+.Navy {color: navy; background: inherit;}
+.NavyB {color: navy; font-weight: bold; background: inherit;}
+.Red {color: #ff0000; background: inherit;}
+.Green {color: #008040;	background: inherit;}
+.Black {color: #000000;	background: inherit;}
+.Maroon {color: #800000; background: inherit;}
+.MaroonB {color: #800000; font-weight: bold; background: inherit;}
+.PurpleD {color: #400080; background: inherit;}
+.Gray {color: gray;	background: inherit;}
+
+ACRONYM {border-bottom: 1px dotted black; cursor: help;}
+DFN {border-bottom: 1px dotted black; cursor: help;}
+.Define {border-bottom: 1px dotted black; cursor: help;}
+
+/* FONTS */
+.Arial2 { font-size: 13px; font-family: arial,helvetica,sans-serif;}
+.Arial3 { font-size: 16px; font-family: arial,helvetica,sans-serif;}
+.Times3 { font-family: "times new roman",times,sans-serif; font-size: 13px;}
+
+.Left {text-align: left;}
+.Center {text-align: center;}
+.Right {text-align: right;}
+
+.NoWrap {white-space: nowrap;}
+
+.Dots3 {font: bold 13px Arial,Helvetica,Sans-serif;}
+
+.Path { font-weight: bold; font-style: italic;}
+
+.Program {
+	color: #3604bb;
+	background: url("pics/program-bg.gif") repeat-x;
+}
+
+.PicTitle {
+	font: normal normal 10px/12px Arial,Helvetica,sans-serif;
+	padding: 0px 0px 3px 0px;
+	color: #000000;
+	background: inherit;
+}
+
+.Note {
+	padding: 10px;
+	font: normal normal 15px/17px "trebuchet ms",verdana,sans-serif;
+ 	color: #000000; 
+	background: #d1d1d1; 
+	text-align: justify;
+}
+
+.List1 LI {margin-bottom: 10px;}
+.ListDef LI {margin-bottom: 0px;}
+.DList DT {font-weight: bold;}
+.DList DD {margin-bottom: 10px;}
+
+.Table1 {width: 90%;}
+
+.Table1 TD {
+	padding: 5px;
+	vertical-align: top;
+	font: 15px/17px "trebuchet ms",verdana,sans-serif; 
+	color: #000000;
+	background: none; 
+}
+
+.Table1 TH {
+	padding-left: 5px;
+	text-align: left;
+	font-weight: normal;
+ 	border-bottom: 1px solid #808080;
+}
+
+.BorderRed {
+	border-top: solid 3px #a67b7b;
+	border-bottom: solid 3px #a67b7b;
+}
+
+.Divider {font: 26px 'times new roman',serif;}
+
+.MiniMenu {
+	float: right; 
+	width: 260px; 
+	margin-left: 15px;
+	margin-bottom: 10px;
+	padding: 10px; 
+	text-align: left;
+	font-size: 13px; 
+ 	background: url("pics/purpleweb-bg4.jpg") #d9d9d9; 
+	color: inherit;
+	border: 1px solid black; 
+}
+
+.MiniMenu A {
+	background: none;
+}
+
+.MiniMenu LI  {
+	margin-left: -20px;
+}
+
+.MiniMenuHeading {
+	font-weight: bold;
+	color: maroon;
+	background: transparent;
+}

@@ -1,0 +1,34 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="F509A316-EA2B-454C-AE33-320199748DFC/f:Program.cs" caret="0" fromTop="0" />
+    <File id="F509A316-EA2B-454C-AE33-320199748DFC/f:App.config" caret="1478" fromTop="18" />
+    <File id="40566E41-9327-4E06-BE43-462DAFA87B9B/f:EventInfo.cs" caret="0" fromTop="0" />
+    <File id="40566E41-9327-4E06-BE43-462DAFA87B9B/f:ListenInfo.cs" caret="0" fromTop="0" />
+    <File id="40566E41-9327-4E06-BE43-462DAFA87B9B/f:MessageBase.cs" caret="0" fromTop="0" />
+    <File id="40566E41-9327-4E06-BE43-462DAFA87B9B/f:AsynchEventManager.cs" caret="320" fromTop="0" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningManager.cs" caret="932" fromTop="34" />
+    <File id="670AFC00-5E8A-4187-A997-78C9F8F4A704/f:ICYClient.cs" caret="479" fromTop="23" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:SocketMessage.cs" caret="0" fromTop="0" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:SocketLibException.cs" caret="0" fromTop="0" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ServerFloodException.cs" caret="0" fromTop="0" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ServerDataPacket.cs" caret="0" fromTop="0" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ServerEvent.cs" caret="122" fromTop="6" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="3115" fromTop="9" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ServerConnection.cs" caret="178" fromTop="8" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ConnectionManager.cs" caret="235" fromTop="3" />
+    <File id="670AFC00-5E8A-4187-A997-78C9F8F4A704/f:ICYServer.cs" caret="24978" fromTop="12" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="F509A316-EA2B-454C-AE33-320199748DFC/f:App.config" caret="1764" fromTop="26" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="3392" fromTop="29" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="2794" fromTop="16" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="2989" fromTop="20" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="3674" fromTop="26" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="2524" fromTop="24" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="1439" fromTop="22" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningSocket.cs" caret="260" fromTop="11" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningManager.cs" caret="574" fromTop="15" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningManager.cs" caret="682" fromTop="17" />
+    <File id="2DD53583-AF55-4CAF-8D63-F60C3ED69F57/f:ListeningManager.cs" caret="985" fromTop="21" />
+  </RecentEdits>
+</RecentFiles>

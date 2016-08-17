@@ -1,0 +1,106 @@
+﻿/* TESTING */
+/* .Section {border: 1px solid green;}
+.SectionWrapper { border: 1px solid red;} */
+
+.LayoutForm {margin-bottom: 10px;}
+
+.LayoutForm TD {
+padding: 7px;
+font-size: 14px;
+font-family: arial;
+} 
+.PickLink {font-size: 12px; font-family: arial;}
+.PickLink A {font-size: 12px; font-family: arial;}
+/* Resize font in Quick Presets for Firefox so background section isn't too tall */
+.PickLink .Presets A {font-size: 11px; font-family: arial;}
+/* Reset for IE */
+* html .PickLink .Presets A {font-size: 12px; font-family: arial;}
+
+.ColorPickTable TD {font-size: 12px; font-family: arial; width: 12px; height: 12px;}
+.ColorPickTable TD A {display: block;}
+
+.form_widget_amount_slider{
+border-top: 1px solid #9d9c99;
+border-left: 1px solid #9d9c99;
+border-bottom: 1px solid #eeeeee;
+border-right: 1px solid #eeeeee;
+background-color: #f0ede0;
+height: 3px;
+position: absolute;
+bottom: 0px;
+}
+
+#colorPreview2 {width: 90px;}
+
+#colorCode2 {
+width: 90px;
+margin-left: auto;
+margin-right: auto;
+padding: 2px; 
+font-size: 11px; 
+vertical-align: middle; 
+background-color: #ffffff; 
+border: 1px solid #000000;
+text-align: left;
+}
+
+
+#slider_target1, #slider_target2, #slider_target3 {background-repeat: no-repeat; background-position: 1px 5px; width: 320px;}
+#slider_target1 {background-image: url(~/images/hsv_color_bar.gif);}
+#slider_target2 {background-image: url(~/images/saturation.jpg);}
+#slider_target3 {background-image: url(~/images/greyscale_bar.jpg);}
+
+/*
+OPERA BUGS with RGB slider
+1) The position: relative; property-value pair causes a malfunctioning of the dynamically-set colorPickerSelectedColorValue TD cell in the Color Picker. This property must be set to static dynamically when RGB slider is closed)
+2) Image handle malfunctions if padding-top is not set to at least 1px. Another fix is to set the border to 1px solid but this is undesirable.
+*/
+#SetPosition {position: relative; padding-top: 1px;}
+
+.RGBdiv {
+position: absolute; 
+background: white;
+border: 1px solid black;
+top: 0px; 
+left: 7px; 
+z-index: 2;
+margin-bottom: 0px;
+/* width: 480px; */
+width: 550px;
+}
+.ValueBox INPUT {width: 30px;}
+
+
+.RGBdiv FORM {margin-bottom: 5px;}
+.RGBdiv TABLE {width: 535px; margin: 10px;}
+
+.rgbAction {
+padding-top: 10px; font-size: 10px; font-family: arial,helvetica,sans-serif; text-align: center;
+}
+#rgbHelper {display: none; font-family: arial,verdana,sans-serif; font-size: 12px; width: 540px; height: 190px; padding: 20px 5px 5px 5px; overflow: auto; border-top: 1px solid gray;}
+
+* html .ddMenuWrapper INPUT {height: 17px; margin-top: 1px;}
+.ddMenuWrapper IMG {margin-bottom: 9px;}
+* html .ddMenuWrapper IMG {margin-bottom: 4px;}
+@media all and (min-width: 0px) {.ddMenuWrapper IMG {margin-bottom: 0px;}} 
+/* margin-bottom originally set at 5px before release of Opera 9 */
+
+#ffDropdown, #fsDropdown, #bsizeDropdown, #bstyleDropdown {
+position: absolute; 
+display: none;
+top: 24px;
+left: 0px;
+width: 135px;
+border-top: 1px solid gray;
+border-left: 1px solid gray;
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+background: white;
+color: inherit;
+z-index: 3;
+}
+* html #ffDropdown, * html #fsDropdown, * html #bsizeDropdown, * html #bstyleDropdown {top: 21px;}
+@media all and (min-width: 0px) {#ffDropdown, #fsDropdown, #bsizeDropdown, #bstyleDropdown {width: 140px;}
+/* Keep sliders from jamming into preview box on right side */
+.RGBdiv TD INPUT {margin-left: 10px;}
+}

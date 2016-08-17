@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ICYServer.dll
+bin\Debug\ICYServer.pdb
+bin\Debug\log4net.dll
+bin\Debug\MP3Info.dll
+bin\Debug\ObjectEventQueue.dll
+bin\Debug\ObjectQuery.dll
+bin\Debug\SocketServer.dll
+bin\Debug\Tracklist.Domain.dll
+bin\Debug\ObjectQuery.pdb
+bin\Debug\Tracklist.Domain.pdb
+bin\Debug\MP3Info.pdb
+bin\Debug\ObjectEventQueue.pdb
+bin\Debug\SocketServer.pdb
+obj\Debug\ICYServer.dll
+obj\Debug\ICYServer.pdb

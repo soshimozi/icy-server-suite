@@ -1,0 +1,43 @@
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYService.exe.config
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYService.exe
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYService.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYServer.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\SocketServer.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\Tracklist.Domain.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\MP3Info.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectEventQueue.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectQuery.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYServer.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\SocketServer.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\Tracklist.Domain.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\MP3Info.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectEventQueue.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectQuery.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.ICYService.resources
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.ProjectInstaller.resources
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ResGen.read.1.tlog
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ResGen.write.1.tlog
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.exe
+C:\Users\Volcano\Desktop\ICYServer Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYService.exe.config
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYService.exe
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYService.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYServer.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\SocketServer.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\Tracklist.Domain.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\MP3Info.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectEventQueue.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectQuery.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ICYServer.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\SocketServer.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\Tracklist.Domain.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\MP3Info.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectEventQueue.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\bin\Debug\ObjectQuery.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\obj\Debug\SMarTICY Service.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.ICYService.resources
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.ProjectInstaller.resources
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\obj\Debug\SMarTICY Service.csproj.GenerateResource.Cache
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.exe
+C:\Users\Monkey\Desktop\ICY Server Suite\SMarTICY Service\WindowsService1\obj\Debug\ICYService.pdb

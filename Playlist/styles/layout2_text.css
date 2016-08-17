@@ -1,0 +1,280 @@
+/*************************************************************/
+/*   Design:   Multiflex-3 Update-4 / Layout-2               */
+/*   File:     Text formats                                  */
+/*-----------------------------------------------------------*/
+/*   Author:   Wolfgang                                      */
+/*   Date:     December 11, 2006                             */
+/*   Homepage: wwww.1-2-3-4.info                             */
+/*-----------------------------------------------------------*/
+/*   License:  Fully open source without restrictions.       */
+/*             Please keep footer credits with a link to     */
+/*             Wolfgang (www.1-2-3-4.info). Thank you!       */
+/*************************************************************/
+
+/******************/
+/*  MAIN SECTION  */
+/******************/
+
+/* MAIN NAVIGATION */
+.nav3-bullet {width:170px; margin:10px 0 0 20px;}
+.nav3-bullet tr td a, .nav3-bullet tr td a:visited {line-height:2.0em; padding:0 0 0 10px; background:url(../images/bg_bullet_full_2.gif) no-repeat 0px 50%; text-decoration:none; color:rgb(70,122,167); font-weight:bold; font-size:110%;}
+.nav3-bullet tr td a:hover {background:url(../images/bg_bullet_half_2.gif) no-repeat 0px 50%; text-decoration:underline; color:rgb(42,90,138);}
+.nav3-bullet a { background:url(../images/bg_buttlet_half_2.gif) no-repeat 0px 50%;}
+
+.main-navigation .contactform {width:190px; margin:0px 0px 0 0px; border:none;}
+.main-navigation .contactform fieldset {border:none;}
+.main-navigation .contactform label.top {width:165px;}
+.main-navigation .contactform input.field {width:188px; font-family:verdana,arial,sans-serif;}
+.main-navigation .contactform textarea.field {width:188px; font-family:verdana,arial,sans-serif;}
+.main-navigation .contactform input.button {width:6.0em; margin-top: 0.5em; padding:1px; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0);}
+.main-navigation .contactform input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}
+
+.main-navigation .loginform {width:190px; margin:5px 20px 0 20px;}
+.main-navigation .loginform p {clear:both; margin:0; padding:0;}
+.main-navigation .loginform fieldset {width:180px; border:none;}
+.main-navigation .loginform label.top {float:left; width:180px; margin:0 0 2px 0; font-size:100%;}
+.main-navigation .loginform label.right {float:left; width:180px; margin:5px 0 0 0; padding:0 0 0 3px; /*IE6*/ font-size:100%;}
+.main-navigation .loginform input.field {width:178px; margin:0 0 5px 0; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:100%;}
+.main-navigation .loginform input.checkbox {float:left; margin:5px 0 0 0 !important /*Non-IE6*/; margin:2px 0 0 -3px /*IE6*/; border:none;}
+.main-navigation .loginform input.button {float:left; width:5.0em; margin:10px 0 5px 0; padding:1px; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); font-size:100%;}
+.main-navigation .loginform input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}
+.main-navigation .loginform label.error {float:left; width:180px; margin:0 0 2px 0; font-size:100%; color:rgb(204, 0, 0);}
+.main-navigation .loginform .errorText {color:rgb(204,0,0);}
+.loginform .errorText {color:rgb(204,0,0);}
+
+.main-navigation .searchform {width:190px; margin:0 20px 0 20px;}
+.main-navigation .searchform fieldset {border:none;}
+.main-navigation .searchform input.field {float:left; width:158px; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.main-navigation .searchform input.button {float:left; width:3.0em; margin-top: 0.5em; padding:1px; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); font-size:110%;}
+.main-navigation .searchform input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}
+
+/* .main-navigation h1 {clear:both; margin:30px 0 20px 0; padding:4px 20px 3px 20px; background:rgb(190,190,190); font-family:"trebuchet ms",arial,sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:130%;} */
+.main-navigation h2 {clear:both; margin:20px 10px 10px 20px; font-family:"trebuchet ms",arial,sans-serif; color:rgb(100,100,100); font-weight:bold; font-size:140%;}
+.main-navigation h3 {clear:both; margin:10px 10px 5px 20px; color:rgb(80,80,80); font-weight:bold; font-size:100%;} /* Note: h2 not existent, to make identical to formats for main-navigation for easier exchange */
+.main-navigation p {clear:both; margin:0 10px 10px 20px; color:rgb(80,80,80); line-height:1.3em; font-size:100%;}
+.main-navigation p.center {text-align:center;}
+.main-navigation p.right {text-align:right;}
+
+.main-navigation ul {list-style:none; margin:0.5em 10px 1.0em 20px;}
+.main-navigation ul li {margin:5px 0 0.2em 2px; padding:0px 0px 0 11px; background:url(../images/bg_bullet_full_1.gif) no-repeat 0 0.4em; line-height:1.2em; font-size:100%;}
+.main-navigation ol {margin:0.5em 10px 1.0em 40px !important /*Non-IE6*/; margin:0.5em 10px 1.0em 45px /*IE6*/;}
+.main-navigation ol li {list-style-position:outside; margin:0 0 0.4em 0; font-size:100%;}
+
+/* MAIN CONTENT */
+.main-content h1.block {clear:both; margin:1.0em 0 0em 0; padding:2px 0 2px 2px; background:rgb(190,190,190); font-family:"trebuchet ms",arial,sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:210%;}
+.main-content h1 {clear:both; margin:1.0em 0 0.5em 0; font-family:"trebuchet ms",arial,sans-serif; color:rgb(80,80,80); font-weight:normal; font-size:200%;}
+.main-content h2 {clear:both; margin:1.0em 0 0.5em 0; font-family:"trebuchet ms",arial,sans-serif; color:rgb(80,80,80); font-weight:normal; font-size:160%;}
+.main-content h3 {clear:both; margin:-1.0em 0 0.5em 0; font-family:"trebuchet ms",arial,sans-serif; color:rgb(125,125,125); font-weight:normal; font-size:120%;}
+.main-content h1.side {clear:none;}
+.main-content h2.side {clear:none;}
+.main-content h3.side {clear:none;}
+
+.main-content h4 {margin:1.5em 0 1.0em 0; color:rgb(80,80,80); font-family:"trebuchet ms",arial,sans-serif; font-weight:normal; font-size:160%;}
+.main-content h5 {margin:1.5em 0 1.0em 0; color:rgb(80,80,80); font-family:"trebuchet ms",arial,sans-serif; font-size:130%;}
+.main-content h5.block {clear:both; margin:1.0em 0 0em 0; padding:2px 0 2px 2px; background:rgb(190,190,190); font-family:"trebuchet ms",arial,sans-serif; color:rgb(255,255,255);}
+.main-content h6 {margin:1.2em 0 0.2em 0; color:rgb(80,80,80); font-weight:bold; font-size:110%;}
+.main-content p {margin:0 0 1.0em 0; line-height:1.5em; font-size:110%;}
+.main-content p.center {text-align:center;}
+.main-content p.right {text-align:right;}
+.main-content p.details {clear:both; margin:-0.25em 0 1.0em 0; line-height:1.0em; font-size:100%;}
+.main-content blockquote {clear:both; margin:0 30px 0.6em 30px; font-size:90%;}
+
+.main-content table th {height:3.0em; padding:2px 20px 2px 7px; font-weight:bold; font-size:100%;}
+.main-content table tr {height:3.0em; padding:2px 7px 2px 7px; font-size:100%;}
+p.caption {clear:both; margin:0.5em 0 2.0em 20px; text-align:left; color:rgb(80,80,80); font-size:100%;}
+
+.main-content ul {list-style:none; margin:0.5em 0 1.0em 0;}
+.main-content ul li {margin:0 0 0.2em 2px; padding:0 0 0 12px; background:url(../images/bg_bullet_full_1.gif) no-repeat 0 0.5em; line-height:1.4em; font-size:110%;}
+.main-content ol {margin:0.5em 0 1.0em 20px !important /*Non-IE6*/; margin:0.5em 0 1.0em 25px /*IE6*/;}
+.main-content ol li {list-style-position:outside; margin:0 0 0.2em 0; line-height:1.4em; font-size:110%;}
+
+.main-content .subform {width:680px; margin:0 20px 0 20px;}
+.main-content .subform fieldset {width:690px; border:none;}
+.main-content .subform label.top {width:125px; font-size:100%; vertical-align:middle;}
+.main-content .subform .field {width:258px; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.main-content .subform input.field {width:258px; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.main-content .subform select.field {width:258px; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.main-content .subform input.button {width:6.0em; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); font-size:110%;}
+.main-content .subform input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}
+.main-content input.button {width:6.0em; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); font-size:110%;}
+.main-content input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255); }
+.main-content .subform input.filesearch {width:288px; font-family:verdana,arial,sans-serif; font-size:110%; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:solid 1px rgb(0,0,0);}
+.main-content .subform input.upload { padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.1em 0 0.2em 0; width:6.0em; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); font-size:110%; }
+input.wrappedButton {width:6.0em; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; font-size:110%;}
+.subform {width:680px; margin:0 20px 0 20px;}
+.subform fieldset {width:690px; border:none;}
+.subform label.top {width:125px; font-size:100%; vertical-align:middle;}
+.subform .field {width:258px; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.subform input.field {width:258px; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.subform select.field {width:258px; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.subform input.button {width:6.0em; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0); font-size:110%;}
+.subform input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}
+.subform input.filesearch {width:288px; font-family:verdana,arial,sans-serif; font-size:110%; vertical-align:middle; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0; border:solid 1px rgb(0,0,0);}
+.subform input.upload { padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.1em 0 0.2em 0; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0);}
+
+.contactform {width:418px; margin:2.0em 0 0 0; padding:10px 10px 0 10px; border:solid 1px rgb(200,200,200); background-color:rgb(240,240,240);}
+.contactform fieldset {padding:20px 0 0 0; margin:0 0 0 0; border:solid 1px rgb(220,220,220);}
+.contactform fieldset legend {margin:0 0 0 5px; margin:0 0 20px 5px; padding:0 2px 0 2px; color:rgb(80,80,80); font-weight:bold;}
+.contactform label.left {float:left; width:100px; margin:0 0 0 10px; padding:2px;}
+.contactform input.field {width:275px; padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif;}
+.contactform textarea {width:275px; padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif;}
+.contactform input.button {float:right; width:9.0em; margin-right:20px; padding:1px; padding:0; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0);}
+.contactform input.button:hover {cursor: pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}
+.contactform select.combo {width:175px; padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif;}
+
+/********************/
+/*  COMMON CLASSES  */
+/********************/
+/*
+.main img {clear:both; float:left; margin:3px 10px 7px 0; padding:1px; border:1px solid rgb(150,150,150);}
+.main img.center {clear:both; float:none; margin:0; padding:1px; border:1px solid rgb(150,150,150);}
+.main img.right {clear:both; float:right; margin:3px 0 7px 10px; padding:1px; border:1px solid rgb(150,150,150);}
+*/
+
+.main a {color:rgb(70,122,167); font-weight:bold; text-decoration:none;}
+.main-content h1 a {color:rgb(70,122,167); font-weight:normal; text-decoration:none;}
+.main a:hover {color:rgb(42,90,138); text-decoration:underline;}
+.main a:visited {color:rgb(42,90,138);}
+
+/* 
+.main a img {border:solid 1px rgb(150,150,150);}
+.main a:hover img {border:solid 1px rgb(220,220,220);}
+*/
+
+.label
+{
+	font-size: 90%;
+}
+
+.errorText
+{
+	color:rgb(204,0,0);
+}
+
+.contentTitle
+{
+	font-size:medium;
+	font-weight:bold;
+	color: #5D7B9D;
+}
+
+.contentSmallTitle
+{
+	font-size:small;
+	font-weight:bold;
+	color: #5D7B9D;
+}
+
+.welcomeLabel
+{
+	font-weight:bold;
+	font-size:small;
+	color:#000040;
+}
+
+.welcomeLabel a
+{
+	text-decoration:underline;
+}
+
+.flatButton
+{
+	background:#cccccc;
+	border: solid 1px black;
+	Font-Size:smaller;
+	Color:#284775;
+}
+
+.flatTextbox
+{
+	border: solid 1px;
+	font-size:x-small;
+}
+
+.top-embed-column
+{
+	border-top:solid 1px rgb(104,104,104);
+	width:580px;
+}
+
+.left-embed-column
+{
+	padding-right:5px;
+}
+
+.right-embed-column
+{
+	border-left:solid 1px rgb(104,104,104); 
+	padding-left:5px;	
+}
+
+.profilerow
+{
+	border:dashed 2px black;
+	padding:10px 10px 10px 10px;
+}
+
+.textbanner
+{
+	font-weight: bold; 
+	color: white; 
+	background-color: #6b696b;
+	font-family: Verdana;
+	font-size:small;
+}
+
+.embedTableRow
+{
+	border-bottom: dashed 1px #333333;
+	padding-bottom: 10px;
+}
+
+.PlaylistGridRow td { cursor: hand; background-color: #ffffff; color: #000000; float:left; }
+.PlaylistGridAlternateRow { cursor:hand;	background-color: #DDDDFF; color: #000000; }
+.PlaylistGrid { cursor: hand; }
+
+.accordionHeader {
+    border: 1px solid rgb(200,200,200);
+    color: white;
+    background-color: rgb(190,190,190);
+	font-family: Arial, Sans-Serif;
+	font-size: 12px;
+	font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    overflow:auto;
+}
+
+#main-content .accordionHeader a {
+	color: #FFFFFF;
+	background: none;
+	text-decoration: none;
+}
+
+#main-content .accordionHeader a:hover {
+	background: none;
+	text-decoration: underline;
+}
+
+.accordionContent {
+    background-color: rgb(240,240,240);
+    border: 1px dashed rgb(190,190,190);
+    border-top: none;
+    /*padding: 5px;*/
+    padding-top: 10px;
+    overflow:hidden;
+}
+
+#main-content .accordionContent {
+    overflow:hidden;
+}
+
+.searchsubform {margin: 0 0 0 20px;}
+.searchsubform fieldset {border:none;}
+.searchsubform label.top {width:125px; vertical-align:middle;}
+.searchsubform .field {width:158px; vertical-align:middle; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif;}
+.searchsubform input.field {width:158px; vertical-align:middle; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; }
+.searchsubform select.field {width:158px; vertical-align:middle; border:1px solid rgb(200,200,200); font-family:verdana,arial,sans-serif; }
+.searchsubform input.button {width:4.0em; background:rgb(230,230,230); border:solid 1px rgb(0,0,0); vertical-align:middle; text-align:center; font-family:verdana,arial,sans-serif; color:rgb(0,0,0);}
+.searchsubform input.button:hover {cursor:pointer; border:solid 1px rgb(255,255,255); background:rgb(230,230,230); color:rgb(255,255,255);}

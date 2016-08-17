@@ -1,0 +1,6 @@
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer\obj\Debug\ICYServer.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\ICYServer\obj\Debug\ICYServer.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer\obj\Debug\ICYServer.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer\obj\Debug\ICYServer.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\ICYServer\obj\Debug\ICYServer.pdb

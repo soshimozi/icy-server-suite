@@ -1,0 +1,10 @@
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\TelnetTest.exe
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\TelnetTest.pdb
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\SocketServer.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\log4net.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\ObjectEventQueue.dll
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\ObjectEventQueue.pdb
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\bin\Debug\SocketServer.pdb
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\obj\Debug\TelnetTest.exe
+C:\Documents and Settings\Scott\Desktop\Projects\save me - important\ICYServer Suite\TelnetTest\obj\Debug\TelnetTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Volcano\Desktop\ICYServer Suite\MP3Info\bin\Debug\MP3Info.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\MP3Info\bin\Debug\MP3Info.pdb
+C:\Users\Volcano\Desktop\ICYServer Suite\MP3Info\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Volcano\Desktop\ICYServer Suite\MP3Info\obj\Debug\MP3Info.dll
+C:\Users\Volcano\Desktop\ICYServer Suite\MP3Info\obj\Debug\MP3Info.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\MP3Info\bin\Debug\MP3Info.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\MP3Info\bin\Debug\MP3Info.pdb
+C:\Users\Monkey\Desktop\ICY Server Suite\MP3Info\obj\Debug\MP3Info.csprojResolveAssemblyReference.cache
+C:\Users\Monkey\Desktop\ICY Server Suite\MP3Info\obj\Debug\MP3Info.dll
+C:\Users\Monkey\Desktop\ICY Server Suite\MP3Info\obj\Debug\MP3Info.pdb
